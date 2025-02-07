@@ -11,5 +11,8 @@ import {DUMMY_USERS} from './dummy-users';
 })
 export class AppComponent {
   users = DUMMY_USERS;
-  protected readonly name = name;
+
+  onSelectUser(id: string) {
+    console.log('Selected user with the ID: ' + id)
+  }
 }

@@ -1,5 +1,5 @@
-# TaskFormApp
-
+# Task Manager 
+This is my first Angular project with some crucial Angular features like two way binding, event binding and EventEmmiter, services, angular cli components, decorators, directives and content projection. It saves also saves the data to localStorage.
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.1.5.
 
 ## Development server
